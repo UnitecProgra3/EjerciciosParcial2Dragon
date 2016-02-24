@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456156353 source:/home/turupawn/Clases/Progra3DragonParcial2/STL/main.cpp
+	<iostream>
+	<stack>
+

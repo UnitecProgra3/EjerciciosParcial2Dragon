@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456329351 source:/home/turupawn/Clases/Progra3DragonParcial2/Maps/main.cpp
+	<iostream>
+	<map>
+
